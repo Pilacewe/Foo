@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SisaMakanan",
+  "description": "An Indonesian food rescue marketplace connecting buyers with discounted surplus food from local restaurants and bakeries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
